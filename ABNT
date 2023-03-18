@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatador ABNT</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Formatador ABNT</h1>
+      <textarea id="texto" rows="10" maxlength="1000"></textarea>
+      <button id="formatar">Formatar</button>
+      <p id="resultado"></p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
